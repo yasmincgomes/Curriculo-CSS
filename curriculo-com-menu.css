@@ -1,0 +1,108 @@
+body{
+    width: 80%; 
+    margin:auto; 
+    font-family: Arial, Helvetica, sans-serif;
+    color: #111111;
+    margin-bottom: 80px;
+    margin-top: 40px;
+}
+
+
+h1{ /*** YASMIN C. GOMES***/
+    width: auto;
+    margin: auto;
+    text-align: center;
+    font-size: 35px;
+    background-color: #ff698f38;
+    margin-bottom: 0px; 
+}
+
+
+h2{ /**Titulos**/
+    background-color: #6999ff2d;
+    padding: 6px; 
+    text-align: auto;
+    margin-bottom: 1px;
+}
+ 
+h3{
+    font-size: 18px;
+    padding-top: 0;
+    margin-bottom: 10px;
+}
+
+ul{
+    padding-left: 0; 
+}
+ 
+li{
+    list-style-position: inside;
+}
+
+.bold-no-li{
+    font-weight: bold;
+
+}
+.centralizar{ /*** Essa é a classe para a idade, nacionalidade e estado civil ***/
+    text-align: center;
+    font-size: 17px;
+    font-weight: normal;
+    margin-top: 10px;
+}
+
+.subtitulo{ 
+    margin-top: 0; 
+    background-color: #ff698f18;
+}
+
+a{
+    text-decoration: none; 
+}
+a:link{
+    color: #ff698fd0;
+}
+
+a:visited{
+    color: #9669ff48;
+}
+
+
+.menu{
+    text-align: center;
+}
+
+.menu li{
+    list-style-type: none; 
+    display:inline-block; 
+    padding: 0;  
+    margin: 4px;
+}
+
+.menu a{
+    background-color: #ff698f38;
+    padding: 2px;
+    display: block;  
+    border: 2px outset #e6cbd21f;
+}
+
+.menu a:hover{
+    background-color: #6999ff5d;
+    text-decoration: none;
+    color: white;
+}
+
+p{ 
+    margin-top: 7px;
+    margin-bottom: 14px;
+    line-height: 1.5;
+
+}
+ h4{
+    padding-top: 0;
+    margin-top: 0px;
+    margin-bottom: 10px;
+ }
+
+.foto{
+    width: 120px;
+}
